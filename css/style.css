@@ -428,6 +428,11 @@ a:focus {
   text-transform: uppercase;
 }
 
+.service_section .service_container .box p {
+  font-size: 80%;
+  text-transform: uppercase;
+}
+
 .service_section .service_container .box img {
   width: 100%;
 }
